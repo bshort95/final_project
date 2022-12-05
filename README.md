@@ -36,4 +36,8 @@ and then return the important things.
  this model is far from perfect. and given more time I would label more text files. but the labeling proccess took so long that It came down to have an ok model that works
  or a bunch of data with no model.
  
+ 
+the model object is too large to be saved to github. so if you want to run it. you will probabaly have to train your own first. if I had time
+I would create an api to use the model to avoid these extra steps
+ 
  thanks
