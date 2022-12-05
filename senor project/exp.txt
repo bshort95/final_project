@@ -1,0 +1,10 @@
+welcome to ELI
+this program is built to extract import information from job postings
+you have two options for how to use this application
+
+you can input the text you want evaluated in the top textbox and press the button.
+
+you can also input the relitive path of a file into the box, press the checkbox and 
+then start the program.
+
+give it a second to run on bigger files and you should see the important details output.
